@@ -7,7 +7,7 @@ import math
 n = int(input("Enter number:"))
 besttemp = 40
 
-for i in input().split():
+for i in input("Enter number).split():
     t = int(i)
 
     # Write an answer using print
